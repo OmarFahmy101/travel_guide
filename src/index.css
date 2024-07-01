@@ -11,3 +11,85 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbarClass{
+margin-top: -21px;
+height: 70px;
+background-color:  #F55A5A;
+/* box-shadow: 10px 5px 20px 5px rgba(0, 0, 0, 0.5); */
+color: aliceblue;
+}
+
+.navbarClass h1{
+  align-items: center;
+  padding: 20px;
+}
+ .Firstheader{
+font-size: 20px;
+margin-top: 20px;
+display: flex;
+justify-content: center;
+} 
+.mountainPic{
+  width: 165px;
+  height: 248px;
+  border-radius: 5px;
+ 
+}
+
+
+.locationDot{
+  color: #F55A5A;
+  display: flex;
+  justify-content: left;
+
+}
+.cardContent{
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+}
+.Japan{
+
+font-size: 18px;
+color: #2B283A;
+font-family: 'Inter',serif;
+}
+.link a{
+  color:  #918E9B;
+  font-size: 14px;
+
+}
+.link{
+
+}
+.headerTwo{
+
+font-family: 'inter',serif;
+font-size: 28px;
+color:  #2B283A;
+font-weight: 700;
+}
+.date{
+ 
+  font-family: 'inter',serif;
+  font-size: 12.24px;
+  color:  #2B283A;
+}
+.paragraph{
+  font-family: 'inter',serif;
+  font-size: 12.24px;
+  color:  #2B283A;
+  text-align: left;
+}
+.firstDiv{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.secondDiv{
+ 
+}
+.Line{
+  opacity: 0.2;
+}
